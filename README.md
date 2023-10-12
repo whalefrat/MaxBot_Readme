@@ -1,7 +1,9 @@
 # MaxBot_Readme
 
 **如何使用**  
-地址：https://www.maxbot.club/
+网站：https://www.maxbot.club/  
+房间：https://friend.tech/0xSebastianNFT  
+推特：https://twitter.com/0xSebastianNFT  
 
 **FT**  
 1.在FT官方应用打开的时候，按下F12，从网络接口中找到auth（详细看图片文件），填到设置中，不填没有数据刷新哦  
